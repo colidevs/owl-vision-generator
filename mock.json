@@ -1,0 +1,31 @@
+{
+  "ipAddress": "192.168.0.103",
+  "portNo": 3000,
+  "protocol": "HTTP",
+  "channelID": 1,
+  "dateTime": "2024-08-30T17:44:40-03:00",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "AccessControllerEvent": {
+    "deviceName": "Buho2",
+    "majorEventType": 5,
+    "subEventType": 75,
+    "name": "Pufahl, Thomas",
+    "cardReaderKind": 1,
+    "cardReaderNo": 1,
+    "verifyNo": 180,
+    "employeeNoString": "27603",
+    "serialNo": 10536,
+    "userType": "normal",
+    "currentVerifyMode": "cardOrFace",
+    "frontSerialNo": 10535,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "unknown",
+    "picturesNumber": 1,
+    "purePwdVerifyEnable": true
+  }
+}
